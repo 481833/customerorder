@@ -1,2 +1,2 @@
 # customerorder
-Accelerator JPA customer order demo
+Accelerator customer order demo with Spring Boot JPA
