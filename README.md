@@ -45,18 +45,16 @@ Get all Orders
 
 ```bash
 http://localhost:8089/api/v1/orders
-...
+```
 
 Get Orders by Customer annd create Order
 
 ```bash
 http://localhost:8089/api/v1/customers/{customerId}/orders
-...
+```
 
 Update and Delete Order
 
 ```bash
 http://localhost:8089/api/v1/customers/{customerId}/orders/{orderId}
-...
-
-
+```
