@@ -5,7 +5,7 @@
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/callicoder/spring-boot-postgresql-jpa-hibernate-rest-api-demo.git
+git clone https://github.com/481833/customerorder.git
 ```
 
 **2. Configure PostgreSQL**
