@@ -1,4 +1,4 @@
-# Accelerator Customer Order Demo with Spring Boot, PostgreSQL, JPA, Hibernate REST API
+# Customer Order Demo with Spring Boot, PostgreSQL, JPA, Hibernate REST API
 
 ## Steps to Setup
 
