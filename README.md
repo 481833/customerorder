@@ -29,17 +29,17 @@ java -jar target/CustomerOrder-0.0.1-SNAPSHOT.jar
 
 **4. API access**
 
-Get all Customers(GET) and create customer(POST)
+Get all Customers and create customer
 
 ```bash
 http://localhost:8089/api/v1/customers
-...
+```
 
 Update and Delete Customer
 
 ```bash
 http://localhost:8089/api/v1/customers/{customerId)
-...
+```
 
 Get all Orders
 
