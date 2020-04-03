@@ -26,3 +26,37 @@ Alternatively, you can package the application in the form of a JAR file and the
 mvn clean package
 java -jar target/CustomerOrder-0.0.1-SNAPSHOT.jar
 ```
+
+**4. API access**
+
+Get all Customers(GET) and create customer(POST)
+
+```bash
+http://localhost:8089/api/v1/customers
+...
+
+Update and Delete Customer
+
+```bash
+http://localhost:8089/api/v1/customers/{customerId)
+...
+
+Get all Orders
+
+```bash
+http://localhost:8089/api/v1/orders
+...
+
+Get Orders by Customer annd create Order
+
+```bash
+http://localhost:8089/api/v1/customers/{customerId}/orders
+...
+
+Update and Delete Order
+
+```bash
+http://localhost:8089/api/v1/customers/{customerId}/orders/{orderId}
+...
+
+
